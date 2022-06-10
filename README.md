@@ -2,6 +2,6 @@ Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 
 I studied history and computer linguistics. Working as a software engineer.
 
-🔭 research: web development, NLP, modern social (economic) history
-🌱 hobbies: music, gaming, flat jokes
-🌐 websites: [🏢 official](https://arigo.de) | [💻 terminal](https://wilm.fyi)
+- 🔭 research: web development, NLP, modern social (economic) history
+- 🌱 hobbies: music, gaming, flat jokes
+- 🌐 websites: [🏢 official](https://arigo.de) | [💻 terminal](https://wilm.fyi)
